@@ -1,8 +1,0 @@
-com.ryanheise.audio_session-main-0 /Users/rodrigo.martinez/.pub-cache/hosted/pub.dev/audio_session-0.2.4/android/src/main/res
-com.ryanheise.audio_session-release-1 /Users/rodrigo.martinez/.pub-cache/hosted/pub.dev/audio_session-0.2.4/android/src/release/res
-com.ryanheise.audio_session-pngs-2 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/generated/res/pngs/release
-com.ryanheise.audio_session-updated_navigation_xml-3 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/generated/updated_navigation_xml/release
-com.ryanheise.audio_session-mergeReleaseResources-4 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.ryanheise.audio_session-mergeReleaseResources-5 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.ryanheise.audio_session-release-6 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/intermediates/merged_res/release/mergeReleaseResources
-com.ryanheise.audio_session-release-7 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/intermediates/packaged_res/release/packageReleaseResources
