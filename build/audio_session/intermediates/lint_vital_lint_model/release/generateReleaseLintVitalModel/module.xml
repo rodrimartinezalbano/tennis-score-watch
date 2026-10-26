@@ -1,0 +1,20 @@
+<lint-module
+    format="1"
+    dir="/Users/rodrigo.martinez/.pub-cache/hosted/pub.dev/audio_session-0.2.4/android"
+    name=":audio_session"
+    type="LIBRARY"
+    maven="com.ryanheise.audio_session:audio_session:1.0-SNAPSHOT"
+    agpVersion="9.1.0"
+    buildFolder="/Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session"
+    bootClassPath="/Users/rodrigo.martinez/Library/Android/sdk/platforms/android-35/android.jar:/Users/rodrigo.martinez/Library/Android/sdk/build-tools/36.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-35"
+    neverShrinking="true"
+    highlightGradualR8Api="false">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,8 @@
+com.ryanheise.audio_session-debug-0 /Users/rodrigo.martinez/.pub-cache/hosted/pub.dev/audio_session-0.2.4/android/src/debug/res
+com.ryanheise.audio_session-main-1 /Users/rodrigo.martinez/.pub-cache/hosted/pub.dev/audio_session-0.2.4/android/src/main/res
+com.ryanheise.audio_session-pngs-2 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/generated/res/pngs/debug
+com.ryanheise.audio_session-updated_navigation_xml-3 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/generated/updated_navigation_xml/debug
+com.ryanheise.audio_session-mergeDebugResources-4 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.ryanheise.audio_session-mergeDebugResources-5 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.ryanheise.audio_session-debug-6 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/intermediates/merged_res/debug/mergeDebugResources
+com.ryanheise.audio_session-debug-7 /Users/rodrigo.martinez/Developer/tennis_score_poc/build/audio_session/intermediates/packaged_res/debug/packageDebugResources
